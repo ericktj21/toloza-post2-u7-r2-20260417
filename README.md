@@ -23,3 +23,5 @@ Base URL:
 
 ## Entrega GitHub
 Nombre sugerido: `apellido-post2-u7`
+
+Publicacion independiente r2: 2026-04-17 07:26:54
