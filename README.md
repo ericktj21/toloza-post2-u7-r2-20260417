@@ -24,4 +24,13 @@ Base URL:
 ## Entrega GitHub
 Nombre sugerido: `apellido-post2-u7`
 
-Publicacion independiente r2: 2026-04-17 07:26:54
+## Capturas de Pruebas de la API REST (Postman)
+
+**1. Creación de un Producto (Petición POST):**
+![Creación con POST](img/captura-post.png)
+
+**2. Obtención del Catálogo (Petición GET):**
+![Listado con GET](img/captura-get.png)
+
+**3. Modificación/Eliminación (Petición PUT/DELETE):**
+![Acción sobre un producto](img/captura-accion.png)
